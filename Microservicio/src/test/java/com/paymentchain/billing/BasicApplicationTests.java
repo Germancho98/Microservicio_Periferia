@@ -11,8 +11,6 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		String message= "Cambio para verlo en webhook";
-		Assert.assertNotNull(message);
 	}
 
 }
