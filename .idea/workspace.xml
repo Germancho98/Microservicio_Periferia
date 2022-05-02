@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29dcd374-9ad3-482d-a78e-32a64a1c830a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Microservicio/src/main/java/com/paymentchain/billing/entities/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Microservicio/src/main/java/com/paymentchain/billing/entities/Invoice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angularWorkSpace" beforeDir="false" afterPath="$PROJECT_DIR$/angularWorkSpace" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angularWorkSpace/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularWorkSpace/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angularWorkSpace/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularWorkSpace/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/angularWorkSpace/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/angularWorkSpace/package.json" afterDir="false" />
@@ -14,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/angularWorkSpace" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="28ZoTSuX9tAmSQCRoLHubUwDbC0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,13 +24,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Documentos/Proyectos/devops_ci"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Documentos/Proyectos/devops_ci&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

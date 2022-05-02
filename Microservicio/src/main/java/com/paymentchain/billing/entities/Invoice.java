@@ -27,4 +27,5 @@ public class Invoice {
    private String number;
    private String detail;
    private double amount;  
+   private String prueba;
 }
